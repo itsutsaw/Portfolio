@@ -2,6 +2,9 @@
 
 A simple two-page portfolio for web development, systems engineering, and AI/ML research work.
 
+
+**Live Link - ** itsutsaw.vercel.app
+
 ## Preview locally
 
 Run a local server from the project folder:
