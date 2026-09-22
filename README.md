@@ -3,7 +3,7 @@
 A simple two-page portfolio for web development, systems engineering, and AI/ML research work.
 
 
-**Live Link - ** itsutsaw.vercel.app
+**Live Link - ** (https://itsutsaw.vercel.app/)
 
 ## Preview locally
 
